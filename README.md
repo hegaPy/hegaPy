@@ -21,7 +21,7 @@
 
 ### Projects
 
-- 📂 Currently missing, due to the fact that he did not work on projects for public use.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hegaPy&repo=hegaPy)](https://github.com/hegaPy/hegaPy)
 
 ### Communication
 [Telegram](https://t.me/c4appuccinoFAQBot)
