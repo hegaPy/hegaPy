@@ -32,6 +32,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hegaPy&theme=tokyonight" alt="mystreak"/>
 
-<img src="https://myreadme.vercel.app/api/embed/hegaPy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 Thank you for visiting my profile! 😊
