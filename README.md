@@ -28,7 +28,6 @@
 
 - 📫 If you have any questions, suggestions or would like to contact me, do not hesitate to contact the specified contacts on this page.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Stats...)](https://git.io/typing-svg)
-[![wakatime](https://wakatime.com/badge/user/018bdc6f-b63a-46ab-b437-afc905b2a1d2.svg)](https://wakatime.com/@018bdc6f-b63a-46ab-b437-afc905b2a1d2)
+[![wakatime](https://wakatime.com/badge/user/018bdc6f-b63a-46ab-b437-afc905b2a1d2.svg)](https://wakatime.com/@018bdc6f-b63a-46ab-b437-afc905b2a1d2?style=social)
 
 Thank you for visiting my profile! 😊
