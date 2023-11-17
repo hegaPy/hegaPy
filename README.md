@@ -28,4 +28,6 @@
 
 - 📫 If you have any questions, suggestions or would like to contact me, do not hesitate to contact the specified contacts on this page.
 
+[![wakatime](https://wakatime.com/badge/user/018bdbf4-efe0-41ea-87c6-51f200958591.svg)](https://wakatime.com/@018bdbf4-efe0-41ea-87c6-51f200958591)
+
 Thank you for visiting my profile! 😊
