@@ -24,11 +24,9 @@
 - 📂 Currently missing.
 
 ### Communication
-[Telegram](https://t.me/c4appuccinoFAQBot)
+[Telegram](http://t.me/rahmatullinUserBot?start=feedback)
 
 - 📫 If you have any questions, suggestions or would like to contact me, do not hesitate to contact the specified contacts on this page.
-
-[![wakatime](https://wakatime.com/badge/user/018bdc6f-b63a-46ab-b437-afc905b2a1d2.svg)](https://wakatime.com/@018bdc6f-b63a-46ab-b437-afc905b2a1d2?style=default)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hegaPy&theme=tokyonight" alt="mystreak"/>
 
