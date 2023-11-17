@@ -30,6 +30,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/018bdc6f-b63a-46ab-b437-afc905b2a1d2.svg)](https://wakatime.com/@018bdc6f-b63a-46ab-b437-afc905b2a1d2?style=default)
 
-<img src="https://myreadme.vercel.app/api/embed/hegaPy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hegaPy&theme=tokyonight" alt="mystreak"/>
 
 Thank you for visiting my profile! 😊
