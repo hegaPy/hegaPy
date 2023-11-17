@@ -28,9 +28,6 @@
 
 - 📫 If you have any questions, suggestions or would like to contact me, do not hesitate to contact the specified contacts on this page.
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/hegaPy?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-<img src="https://img.shields.io/github/stars/hegaPy?label=Stars" alt="stars">
-
 [![wakatime](https://wakatime.com/badge/user/018bdc6f-b63a-46ab-b437-afc905b2a1d2.svg)](https://wakatime.com/@018bdc6f-b63a-46ab-b437-afc905b2a1d2?style=default)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hegaPy&theme=tokyonight" alt="mystreak"/>
