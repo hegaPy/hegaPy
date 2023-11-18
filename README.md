@@ -28,6 +28,8 @@
 
 - 📫 If you have any questions, suggestions or would like to contact me, do not hesitate to contact the specified contacts on this page.
 
+[![wakatime](https://wakatime.com/badge/user/018bddbd-af47-4410-9287-70466784ca2f.svg)](https://wakatime.com/@018bddbd-af47-4410-9287-70466784ca2f)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hegaPy&theme=tokyonight" alt="mystreak"/>
 
 Thank you for visiting my profile! 😊
